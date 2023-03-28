@@ -22,7 +22,7 @@ Control Tetrominos with keyboard or gestures.
 
 <img src = "assets/tetris.gif" height = 550 />
 
-Android Screen            | Desktop Screen        | Web Screen      | 
+Android                  | Desktop              | Web            | 
 :-------------------------:|:-------------------------:|:----------------------:|
   <img src = "assets/android.png" height = 500 /> | <img src = "assets/desktop.png" height = 500 /> |    <img src = "assets/web.png" height = 500 />| 
 
