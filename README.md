@@ -28,6 +28,6 @@ Android Screen            | Desktop Screen        | Web Screen      |
 
 ## Features
 
-- The game follows the classic Tetris mechanics of fitting Tetriminos into a 10x20 grid to complete lines and score points.
+- The game follows the classic Tetris mechanics of fitting Tetriminos into a grid to complete lines and score points.
 - The game can be run on multiple platforms including Android, iOS, and web.
 - The Tetrominos can be rotated using different gestures and/or keys.
