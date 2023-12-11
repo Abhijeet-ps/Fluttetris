@@ -5,7 +5,7 @@ This is a simple Tetris game built with Flutter, a popular UI toolkit for buildi
 
 ## Controls
 
-Control Tetrominos with keyboard or gestures.
+Control Tetrominos with a keyboard or gestures.
 
 | Action                  | Key   | Gesture                 |
 |-------------------------|-------|-------------------------|
