@@ -24,7 +24,7 @@ Control Tetrominos with a keyboard or gestures.
 
 | Android | Desktop | Web |
 |---------|---------|-----|
-| ![Android](/assets/android.png?raw=true) | ![Desktop](/assets/desktop.png?raw=true) | ![Web](/assets/web.png?raw=true) |
+| ![Android](assets/android.png) | ![Desktop](assets/desktop.png) | ![Web](assets/web.png) |
 
 ## Features
 
