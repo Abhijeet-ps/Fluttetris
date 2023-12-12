@@ -24,7 +24,7 @@ Control Tetrominos with a keyboard or gestures.
 
 | Android | Desktop | Web |
 |---------|---------|-----|
-| ![Android](./assets/android.png) | ![Desktop](./assets/desktop.png) | ![Web](./assets/web.png) |
+| ![Android]([./assets/android.png](https://github.com/Abhijeet-ps/Fluttetris/blob/main/assets/android.png)) | ![Desktop](./assets/desktop.png) | ![Web](./assets/web.png) |
 
 ## Features
 
