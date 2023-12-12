@@ -20,11 +20,11 @@ Control Tetrominos with a keyboard or gestures.
 
 ## Screenshots
 
-![](/assets/tetris.gif)
+![](./assets/tetris.gif)
 
 | Android | Desktop | Web |
 |---------|---------|-----|
-| ![Android](assets/android.png) | ![Desktop](assets/desktop.png) | ![Web](assets/web.png) |
+| ![Android](./assets/android.png) | ![Desktop](./assets/desktop.png) | ![Web](./assets/web.png) |
 
 ## Features
 
